@@ -1,6 +1,6 @@
 ---
 title: "Markdown test"
-output: pdf_document
+output: word_document
 ---
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
@@ -18,4 +18,4 @@ plot(cars)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-$\huge\frac{\sum_{i=1}^\infty\sqrt{2}x_{i}}{2}$
+$$ \huge\sum_{i=1}^\infty\sqrt{2}x_{i} $$
